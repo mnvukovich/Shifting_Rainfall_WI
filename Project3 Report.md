@@ -9,7 +9,7 @@ Rainfall timing is critically important to agriculture, water management, and in
  
 ## Figure 1
 
-![Figure1]{![alt text](<../Project 3/Graphs/Figure1.png>)}
+![Figure1]{(<../Project 3/Graphs/Figure1.png>)}
 
 *Figure 1* shows the total average rainfall per year, broken down by season. Summer consistently contributes the largest share and Winter the smallest. Since 2010, rainfall has been variable but has generally ranged between 25 and 45 inches. The highest year occurred in 2018 and the lowest in 2021. While the overall amount of rainfall has remained relatively consistent, the distribution across seasons plays a critical role in how that water impacts the environment and local communities. For example, high summer rainfall can increase runoff, erosion, and flash flooding risks, especially in areas with limited green infrastructure. If seasonal totals stay steady but shift later into the year, it could alter growing season expectations for local farmers and impact the timing of nutrient applications or harvests. This figure highlights the need to consider not just how much rain falls, but when it falls — a key theme throughout this analysis.
  
