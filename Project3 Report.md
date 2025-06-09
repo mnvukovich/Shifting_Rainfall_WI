@@ -9,13 +9,15 @@ Rainfall timing is critically important to agriculture, water management, and in
  
 ## Figure 1
 
-![Figure1]{![alt text](<../Project 3/Graphs/Figure1.png>)}
+![Figure1]{![Figure1](https://github.com/user-attachments/assets/5710a8f2-6375-4430-9754-d1279a6e53ac)}
+
 
 *Figure 1* shows the total average rainfall per year, broken down by season. Summer consistently contributes the largest share and Winter the smallest. Since 2010, rainfall has been variable but has generally ranged between 25 and 45 inches. The highest year occurred in 2018 and the lowest in 2021. While the overall amount of rainfall has remained relatively consistent, the distribution across seasons plays a critical role in how that water impacts the environment and local communities. For example, high summer rainfall can increase runoff, erosion, and flash flooding risks, especially in areas with limited green infrastructure. If seasonal totals stay steady but shift later into the year, it could alter growing season expectations for local farmers and impact the timing of nutrient applications or harvests. This figure highlights the need to consider not just how much rain falls, but when it falls — a key theme throughout this analysis.
  
 ## Figure 2
 
-![Figure2]{![alt text](<../Project 3/Graphs/Figure2.png>)}
+![Figure2]{![Figure2](https://github.com/user-attachments/assets/73c4d84e-db3c-4ada-b983-68cf586037a7)}
+
 
 This plot reveals that while Summer remains dominant in terms of average rainfall, Fall and Spring show greater fluctuation over time. Winter rainfall, although consistently lower, also shows a subtle upward trend — possibly hinting at warmer winters allowing for more liquid precipitation instead of snow. Additionally, *Figure 2* shows that trends in the rainfall of one season do not necessarily determine the trends in other seasons that year. For example, in 2014, Summer rainfall peaked while the other seasons dipped, whereas 2022 showed a peak in Winter rainfall with a drop in the others.
 
@@ -23,7 +25,8 @@ These contrasting seasonal patterns suggest increasing interannual variability, 
  
 ## Figure 3
 
-![Figure3]{![alt text](<../Project 3/Graphs/Figure3.png>)}
+![Figure3]{![Figure3](https://github.com/user-attachments/assets/e150884f-1d59-4ca6-a3ad-2a63cc341ea0)}
+
 
 *Figure 3* emphasizes that June tends to be the wettest month on average, but rainfall during August and September is far more variable, with some years experiencing significant late-summer precipitation. This variability may reflect shifting seasonal storm patterns or delayed onset of peak moisture conditions. From an agricultural perspective, this has important implications: crops planted with the expectation of early-summer rainfall may suffer if peak moisture arrives too late, potentially stressing plants during key growth stages. Conversely, increased precipitation in August or September may interfere with harvest operations, particularly for crops that require dry conditions for harvesting and storage.
 
@@ -31,13 +34,15 @@ In broader terms, this unpredictability increases the challenge of managing stor
 
 ## Figure 4
 
-![Figure4]{![alt text](<../Project 3/Graphs/Figure4.png>)}
+![Figure4]{![Figure4](https://github.com/user-attachments/assets/04d15c28-fccb-4483-9532-646572629651)}
+
 
 Perhaps the clearest evidence of shifting rainfall patterns, *Figure 4* shows that the peak rainfall month has been trending later in the year. A linear regression line confirms this pattern with a statistically meaningful positive slope, indicating that Waukesha County’s rainiest period has moved from early-summer months like June toward late-summer or early-fall months such as August and September. This shift could reflect changes in large-scale atmospheric circulation, such as later-arriving storm systems or more persistent dry periods early in the summer. The implications are significant: if peak rainfall is occurring later, it could disrupt planting and harvesting cycles, increase the risk of wet harvests, and alter soil moisture availability when crops need it most. From a broader climate resilience perspective, this trend suggests that historical norms for rainfall timing may no longer be reliable, reinforcing the need for adaptive water and land management strategies that respond to when rain falls, not just how much.
 
 ## Figure 5
 
-![Figure5]{![alt text](<../Project 3/Graphs/Figure5.png>)}
+![Figure5]{![Figure5](https://github.com/user-attachments/assets/1c9a3f1d-9ad6-4f6e-9cb4-160860463305)}
+
 
 Grouped by 3-year intervals, *Figure 5* provides clear categorical evidence of shifting rainfall patterns. Early periods (2010–2012) show peak rainfall months concentrated around June and July, consistent with historical expectations for summer rainfall in southeastern Wisconsin. However, more recent periods (particularly 2019–2024) show a noticeable shift toward later months, with peaks occurring more frequently in September and even October. This binning approach helps smooth out year-to-year variability and highlights a structural change in seasonal rainfall timing. It supports the idea that Waukesha County is experiencing a delayed rainy season, which aligns with the linear trend observed in Figure 4. This shift may be tied to broader changes in weather systems, such as later arrival of moisture-laden air masses or longer dry spells earlier in the summer.
 
