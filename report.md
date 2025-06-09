@@ -6,10 +6,10 @@ Climate change has increasingly influenced local weather patterns, and precipita
 
 Rainfall timing is critically important to agriculture, water management, and infrastructure planning. If seasonal patterns are shifting, it could indicate changing atmospheric dynamics or altered storm behavior in the region. This analysis uses data from 2010–2024 to examine how precipitation is distributed across seasons, whether certain months are becoming consistently wetter, and whether peak rainfall is occurring earlier or later in the calendar year.
 
- 
+
 ## Figure 1
 
-![Figure1]{![Figure1](https://github.com/user-attachments/assets/5710a8f2-6375-4430-9754-d1279a6e53ac)}
+![Figure1](https://github.com/user-attachments/assets/5710a8f2-6375-4430-9754-d1279a6e53ac)
 
 
 *Figure 1* shows the total average rainfall per year, broken down by season. Summer consistently contributes the largest share and Winter the smallest. Since 2010, rainfall has been variable but has generally ranged between 25 and 45 inches. The highest year occurred in 2018 and the lowest in 2021. While the overall amount of rainfall has remained relatively consistent, the distribution across seasons plays a critical role in how that water impacts the environment and local communities. For example, high summer rainfall can increase runoff, erosion, and flash flooding risks, especially in areas with limited green infrastructure. If seasonal totals stay steady but shift later into the year, it could alter growing season expectations for local farmers and impact the timing of nutrient applications or harvests. This figure highlights the need to consider not just how much rain falls, but when it falls — a key theme throughout this analysis.

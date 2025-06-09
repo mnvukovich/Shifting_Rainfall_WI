@@ -4,7 +4,7 @@
 
 # Cleaning Data
 import pandas as pd
-df = pd.read_csv(r"C:\AAE 718\Data Files\Project3 Data.csv")
+df = pd.read_csv(r"C:\AAE 718\Data Files\Project3 Data.csv") # Absolute paths only work for you
 df['DATE'] = pd.to_datetime(df['DATE'])
 df_clean = df.dropna(subset=['PRCP'])
 
@@ -31,7 +31,7 @@ monthly_totals = df_clean.groupby(['STATION', 'NAME', 'YEAR', 'MONTH'])['PRCP'].
 seasonal_totals = df_clean.groupby(['STATION', 'NAME', 'YEAR', 'SEASON'])['PRCP'].sum().reset_index()
 
 
-df_clean = df.dropna(subset=['PRCP']).copy()
+df_clean = df.dropna(subset=['PRCP']).copy() # This overwrite df_clean
 
 df_clean['DATE'] = pd.to_datetime(df_clean['DATE'])
 df_clean['YEAR'] = df_clean['DATE'].dt.year
